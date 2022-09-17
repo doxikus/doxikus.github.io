@@ -11,11 +11,9 @@ layout: default
     <div class="bio">
 	    {{ site.description }}
         <p>
-	    <a href="{{ site.url }}{{ site.baseurl }}/about/">> About me</a>
+	    <a href="{{ site.url }}{{ site.baseurl }}/about/">> Za početak o meni</a>	    
         </p>
     </div>
-
-
 </section>
 
 
@@ -37,12 +35,15 @@ layout: default
 
 <section class="posts" id="Blog">
     <h2>BLOG</h2>
+    
     <ul>
-        {% for post in site.posts %}
+        {% for post in paginator.posts %}        
         <li>
 		<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d. %m. %Y." }}</time>
         </li>
         {% endfor %}
     </ul>
+    <h4 class="h-right"><a href="{{ site.url }}{{ site.baseurl }}/archives/">- Arhiva -></a></h4>
 </section>
+

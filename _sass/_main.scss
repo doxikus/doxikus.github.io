@@ -168,6 +168,10 @@ body {
 a {
 	color: var(--link-color);
 	text-decoration: none;
+  &:hover{
+    
+    color: var(--light-text-color);
+  }
 }
 
 .post p {
@@ -484,15 +488,16 @@ color: #333;
 #search-results {
 
   text-align: center;
+  list-style-type: none;
   li {
-    text-align: center;
+    text-align: left;
   }
 }
 
 #search-results li::before {
 	content: "›";
 	display: inline-block;
-	margin-left: -1.3em;
+	// margin-left: -1.3em;
 	width: 1.3em;
 	color: var(--main-text-color);
 }
@@ -792,4 +797,15 @@ $link-color: var(--link-color);
     z-index: 15;
     
   }
+}
+
+section.posts-pagination{
+  margin-top:1rem;
+  text-align: center;
+}
+.h-right{
+  text-align: right;
+}
+.innersearch{
+  margin-top: 5rem;
 }
