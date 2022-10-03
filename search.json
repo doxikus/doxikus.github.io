@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Geekgayhering konferencija 6. i 7. 10. 2022.",
+      "description" : "Prošlo je skoro 10 godina od posljednje konferencije, tako da se The Geek Gathering vraća jači nego ikada!",
+      "category" : "",
+      "tags"     : "konferencija",
+      "url"      : "/blog/2022/10/03/geekgathering-osijek-2022",
+      "date"     : "2022-10-03 00:00:00 +0200"
+    } ,
+  
+    {
       "title"    : "Difference between font formats",
       "description" : "What is the difference between various font formats?",
       "category" : "",
