@@ -19,6 +19,6 @@ Cilj okupljanja je povezivanje sudionika kroz interaktivna predavanja, radionice
 - Gradska i sveučilišna knjižnica Osijek (GISKO) i Restoran Lumiere - Masterclasses
 - Trica Caffe bar - Discussion and chill
 
-The Geek Gathering događaj će biti ograničen na 500 sudionika. Upravo zbog toga, osigurajte svoje ulaznicena vrijeme: https://live.eventtia.com/en/the-geek-gathering-2022
+The Geek Gathering događaj će biti ograničen na 500 sudionika. Upravo zbog toga, osigurajte svoje ulaznice na vrijeme: [Ulaznice za event](https://live.eventtia.com/en/the-geek-gathering-2022)
 
 Moj workshop na temu "DIY smart home", održava se u petak 7.10.2022. u 10:00 na lokaciji kino Urania "small projection hall" 🎉 
