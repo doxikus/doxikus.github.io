@@ -9,12 +9,16 @@ layout: default
         </button>
     </div>
     <div class="bio">
-	    {{ site.description }}
-        <p>
-	    <a href="{{ site.url }}{{ site.baseurl }}/about/">> Za početak o meni</a>	    
-        </p>
+	    {{ site.description }} - <a href="{{ site.url }}{{ site.baseurl }}/about/"> Za početak o meni</a>	 
+        <nav>
+            <a href="{{ site.url }}{{ site.baseurl }}/pages/smart-home-links.html">Lista korisnih linkova</a>
+        </nav>   
+       
     </div>
+
 </section>
+
+
 
 
 
@@ -34,6 +38,7 @@ layout: default
 </div>
 
 <section class="posts" id="Blog">
+
     <h2>BLOG</h2>
     
     <ul>
@@ -43,7 +48,10 @@ layout: default
             <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d. %m. %Y." }}</time>
         </li>
         {% endfor %}
-    </ul>
+    </ul>    
+    {% if site.posts.size == 5 %}
     <h4 class="h-right"><a href="{{ site.url }}{{ site.baseurl }}/archives/">Arhiva 🗂</a></h4>
+    {% endif %}
+    
 </section>
 
