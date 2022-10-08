@@ -7,7 +7,7 @@ tags: konferencija
 minute: 1
 ---
 
-![image description](/images/gg2022/ggos2022.jpg)
+![#TheGeekGathering](/images/gg2022/ggos2022.jpg)
 
 Nakon 10 godina održaan je Geek Gathering konfernecija, kroz dva dana veliki broj IT profesionalaca i entuzijasta je održala predavanje na 4 lokacije u Osijeku.
 
@@ -15,10 +15,10 @@ Nakon 10 godina održaan je Geek Gathering konfernecija, kroz dva dana veliki br
 - Gradska i sveučilišna knjižnica Osijek (GISKO) i Restoran Lumiere - Masterclasses
 - Trica Caffe bar - Discussion and chill
 
-![image description](/images/gg2022/ggo_neue.jpg)
+![Kino Urania](/assets//images/gg2022/ggo_venue.jpg)
 
 Kao predavač imao sam priliku i čast da održim svoj mali workshop na temu "DIY SMART HOME" u maloj projekcijskog sali kina Urania. Sam workshop je bio orjentiran prema geekovima i makerima.
 
-![image description](/images/gg2022/diy_smart_home.jpg)
+![Demo hardware](/assets//images/gg2022/diy_smart_home.jpg)
 
-Možete pruzeti prezentacija [ovdje (.pdf)](files/geekgathering.pdf) i na samom workshopu sam obećao da ću uskoro [ovdje](https://iot.com.hr/pages/smart-home-links.html) objaviti listu zanimljivih linkova vezanu za hardeware i software dio na predavanju koje sam spomenuo.
+Možete pruzeti prezentacija [ovdje (.pdf)](/assets/files/geekgathering.pdf) i na samom workshopu sam obećao da ću uskoro [ovdje](https://iot.com.hr/pages/smart-home-links.html) objaviti listu zanimljivih linkova vezanu za hardeware i software dio na predavanju koje sam spomenuo.
