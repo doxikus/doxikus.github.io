@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: newsletter
 title: "Smarthome lista korisnih linkova"
 permalink: pages/smart-home-links.html
 ---
